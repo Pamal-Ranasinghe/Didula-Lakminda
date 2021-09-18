@@ -68,9 +68,9 @@
 	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Didula-Lakminda&layout=compact&theme=vision-friendly-dark" />
 </a>
 
-[linkedin]: https://www.linkedin.com/in/didula-lakminda/
+<!-- [linkedin]: https://www.linkedin.com/in/didula-lakminda/
 [facebook]: https://www.facebook.com/dmax.lakminda/
-<!-- [hackerank]: https://www.hackerrank.com/didulalakminda31
+<!-- [hackerank]: https://www.hackerrank.com/didulalakminda31 -->
 
 <br />
 
